@@ -1,0 +1,39 @@
+@charset "UTF-8";
+.display-4{
+    color:purple;
+}
+.jumbotron{
+    background-color: #E9ECEF;
+}
+.liste{
+    color: rgba(241, 98, 14, 0.905);
+}
+.jumbotron{
+    text-align: center;
+    list-style-position: inside
+}
+.size{
+    width: 100px;
+    height: 300px;
+}
+.heading{
+    text-align: center;
+    color:purple;
+}
+
+.card-title{
+    color:purple;
+    text-align: center;
+}
+
+.card-subtitle{
+    color:rgb(252, 114, 45);
+}
+
+.card-img-top {
+    flex-grow: 1;
+    object-fit:contain;
+}
+.card-body{
+    flex-grow:3;
+}
