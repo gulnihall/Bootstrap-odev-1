@@ -4,14 +4,13 @@
 }
 .jumbotron{
     background-color: #E9ECEF;
+    text-align: center;
+    list-style-position: inside
 }
 .liste{
     color: rgba(241, 98, 14, 0.905);
 }
-.jumbotron{
-    text-align: center;
-    list-style-position: inside
-}
+
 .size{
     width: 100px;
     height: 300px;
